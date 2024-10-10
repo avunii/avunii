@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avunii" alt="avunii" /></a> </p>
 
-- 🔭 I’m currently working on [LeidenSchaft Tech](https:/l-xdt.github.io/)
+- 🔭 I’m currently working on [LeidenSchaft Tech](https://l-xdt.github.io/)
 
 - 🌱 I’m currently learning **java & python.**
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [LeidenSchaft xLinks (Chrome Extension)](https://github.com/l-xdt/xlinks/)
 
-- 👨‍💻 All of my projects are available at [https://solo.to/leidenschaft/](https://solo.to/leidenschaft/)
+- 👨‍💻 All of my projects are available at [on the web](https://l-xdt.github.io/)
 
 - 📝 I regularly play, and type at: [https://data.typeracer.com/pit/profile?user=avunii/](https://data.typeracer.com/pit/profile?user=avunii/)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **avunii@hotmail.com**
 
-- 📄 Know about my experiences [on the web](https:/l-xdt.github.io/)
+- 📄 Know about my experiences [on the web](https://l-xdt.github.io/)
 
 - ⚡ Fun fact: **🗿**
 
